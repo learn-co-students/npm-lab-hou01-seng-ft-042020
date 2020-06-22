@@ -1,0 +1,25 @@
+{
+  "name": "thachnode",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "a",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedluu/npm-lab-hou01-seng-ft-042020.git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedluu/npm-lab-hou01-seng-ft-042020/issues"
+  },
+  "homepage": "https://github.com/tedluu/npm-lab-hou01-seng-ft-042020#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
